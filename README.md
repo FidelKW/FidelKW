@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**FidelKW/FidelKW**
-
 Hello, This is Fidel! 
 
 I am a Data Analyst with a great passion in analyzing datasets to extract valuable information and patterns that inform critical real-world setting decisions. I’m currently pursing Masters in Data Science at University of East London.
